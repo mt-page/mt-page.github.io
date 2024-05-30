@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <title>给作者加鸡腿</title>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <style>
+        html,
+        body {
+            margin: 0;
+            height: 100%;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+    <script>
+        function callWxImagePreview() {
+            var url = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port : '');
+            url += '/xia_shang/assets/assets/images/wx_pay.jpg';
+            WeixinJSBridge.invoke("imagePreview", {
+                "urls": [url],
+                "current": url
+            })
+        };
+
+        // window.onload = function myOnload() {
+        //     var _this = this;
+        //     _this.funcReadImgInfo();
+        // }
+    </script>
+</head>
+
+<body>
+    <!-- <img src="../xia_shang/assets/assets/images/wx_pay.jpg" onclick="callWxImagePreview()"> -->
+    <img src="../xia_shang/assets/assets/images/wx_pay.jpg">
+</body>
+
+</html>
