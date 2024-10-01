@@ -1,8 +1,8 @@
 {
-  "currentMonth": "2024年9月",
-  "2024_9": {
+  "currentMonth": "2024年10月",
+  "2024_10": {
     "ready": true,
-    "luckData": "https://mt-page.github.io/xia_shang/data/xia_shang_2024_9_luck_data.json?_v=1",
-    "lotteryData": "https://mt-page.github.io/xia_shang/data/xia_shang_2024_9_lottery_data.json?_v=1"
+    "luckData": "https://mt-page.github.io/xia_shang/data/xia_shang_2024_10_luck_data.json?_v=1",
+    "lotteryData": "https://mt-page.github.io/xia_shang/data/xia_shang_2024_10_lottery_data.json?_v=1"
   }
 }
