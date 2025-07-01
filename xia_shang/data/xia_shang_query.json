@@ -1,8 +1,8 @@
 {
-  "currentMonth": "2025年5月",
-  "2025_5": {
+  "currentMonth": "2025年7月",
+  "2025_7": {
     "ready": true,
-    "luckData": "https://mt-page.github.io/xia_shang/data/xia_shang_2025_5_luck_data.json?_v=1",
-    "lotteryData": "https://mt-page.github.io/xia_shang/data/xia_shang_2025_5_lottery_data.json?_v=1"
+    "luckData": "https://mt-page.github.io/xia_shang/data/xia_shang_2025_7_luck_data.json?_v=1",
+    "lotteryData": "https://mt-page.github.io/xia_shang/data/xia_shang_2025_7_lottery_data.json?_v=1"
   }
 }
